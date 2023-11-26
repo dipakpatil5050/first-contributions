@@ -1,6 +1,7 @@
 
 # Contributors
 - [mykyta] (https://github.com/pokulita)
+- [Dipak U Patil] (https://github.com/dipakpatil5050)
 -[Apurva Narayan Pradhan](https://github.com/ApurvaPradhan)
 - [Kevin Patel] (https://github.com/PatelKeviin)
 - [Aditya]
